@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap;">
   <div style="margin: 10px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/b942e2b9-2354-466e-9aa3-25e024f87172" alt="Membro 1" width="100" height="100" style="border-radius: 50%;"/>
-    <p>Estudandte de Desenvolvimento de Software | Aluno Alura</p>
+    <p>Estudante de Desenvolvimento de Software | Aluno Alura</p>
   </div>
 
 # Desafio do amigo secreto
